@@ -4,6 +4,7 @@ html {
 
 body {
     height: 100%;
+    background-color: #BFBC80;
     
 }
 a {
@@ -16,4 +17,10 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.leftPane{
+    background-color: 98794D;
+}
+.rightPane{
+    
 }
