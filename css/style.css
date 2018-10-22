@@ -24,3 +24,33 @@ a {
 .rightPane{
     
 }
+.header{
+    display:flex;
+    justify-content: center;
+}
+.navbar{
+    display:flex;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.sab-photos{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+}
+.sabby{
+    width: 25%;
+    height:25%;
+}
+.container{
+    display: flex;
+}
+.info{
+    width:75%;
+}
+.popular-music{
+    width:25%;
+}
